@@ -1,0 +1,22 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: azure;
+}
+
+.follow {
+    margin-bottom: 4px;
+}
+
+.github-logo {
+    width: 25px;
+    margin-left: 4px;
+    padding-top: 2px;
+}
+
+a :hover {
+    background-image: linear-gradient(45deg, #2c2c2c, #5d5d5d, #989898);
+    padding: 3px;
+    border-radius: 25%;
+}
